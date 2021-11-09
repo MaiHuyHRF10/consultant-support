@@ -2,10 +2,8 @@
 
 ## Team members:
 
-* Nguyễn Văn Quỳnh
-* Vũ Cao Tân
 * Vũ Văn Phong
-* Phạm Hoàng Giang
+* Trịnh Mai Huy
 
 ## Main features: 
 * 二要素認証、ログインセッション管理
